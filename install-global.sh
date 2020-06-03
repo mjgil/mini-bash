@@ -8,7 +8,7 @@ wget https://github.com/mjgil/mini-bash/archive/master.zip
 unzip master.zip
 cd mini-bash-master
 
-./install-local.sh
+./reset.sh
 
 cd ../
 rm master.zip
